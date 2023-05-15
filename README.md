@@ -46,5 +46,5 @@ Contributions are welcome! If you find any issues or want to add new features to
 
 ## Contact
 
-For any questions or suggestions, please feel free to reach out to me at gabrielsesta3@gmail.com(mailto:gabrielsesta3@gmail.com).
+For any questions or suggestions, please feel free to reach out to me at gabrielsesta3@gmail.com
 
